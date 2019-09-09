@@ -1,0 +1,11 @@
+{
+    "applinks":{
+        "apps":[],
+        "details":[
+            {
+                "appID":"TSXV88UR28.com.handsome.test",
+                "paths":["/linktest"]
+            }
+        ]
+    }
+}
